@@ -1,0 +1,11 @@
+<html>
+<body>
+<b>Hello</b>,<i>world</i>!<br/>
+my games:
+<ul><li>ферма<br/>
+<li>тетрис</li></li></ul>
+<table border="1"><tr>
+<td>surname</td>
+<td>name</td></tr></table>
+</body>
+</html>
