@@ -1,0 +1,25 @@
+<html>
+<head><link rel="stylesheet" type="text/css" href="file.css"></link></head>
+<body><div class="quiz">
+<div class="question">How old are you?</div><p/>
+<input type="radio" name="answer">16</input></body><input type="radio" name="answer">18</input>
+<input type="radio" name="answer">20</input><input type="radio" name="answer">22</input></div>
+<button>confirm</button>
+</html>
+
+
+
+
+
+
+
+body {
+background-color: #B7589B;
+}
+.quiz {
+background-color: red;
+border: 2px solid #666;
+margin: auto;
+padding: 2px;
+width: 50px;
+}
