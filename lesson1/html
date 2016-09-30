@@ -1,0 +1,44 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<h1>1.Уравнения</h1><br />
+1.<math>
+
+<i>x<sup><small>2</small></sup></i>
+
+<mo>+</mo>
+
+<mn>2x</mn>
+<mo>+</mo>
+<mn>1</mn>
+<mo>=</mo>
+<mn>0</mn>
+
+</math><br />
+2.<math>
+<i>(x+1)<sup><small>x</small></sup></i>
+<mo>=</mo><i>(x-1)<sup><small>2x</small></sup></i>
+
+</math><br />
+3.<mn>sin<sup><small>2</small></sup>x</mn>
+<mo>=</mo><mn>cos(&#960-x)<sup><small>2x</small></sup></mn><br />
+<h1>2.Таблицы</h1><br />
+<h2>2.1. Структура</h2><br />
+   <table>
+<tr>
+<td></td>
+<td>Колонки</td>
+</tr>
+<tr>
+<td>Строки</td>
+<td>Ячейка А Ячейка Б</td>
+<td>Ячейка С Ячейка D </td>
+</tr>
+</table><br />
+<h2>2.2 Цвета</h2>
+  
+
+</body>
+</html>
