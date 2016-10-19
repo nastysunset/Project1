@@ -1,0 +1,31 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Zadanie_3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double sum = 0;
+            double chislo = 0.5;
+            int i = 1;
+            Console.WriteLine("Введите N");
+            int N = Convert.ToInt32(Console.ReadLine());
+
+            while (i <= N)
+                {
+                    Console.WriteLine(chislo);
+                    sum = sum + chislo;
+                    i = i + 1;
+                    chislo = chislo * 0.5;
+                }
+                Console.WriteLine("Sum = " + sum);
+                Console.ReadKey();
+            }
+       
+        }
+    }
